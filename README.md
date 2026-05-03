@@ -93,8 +93,7 @@ Demo video coming soon
 Farah Tourait
 Email: farahtourait@gmail.com
 GitHub: github.com/FarahTourait
-LinkedIn: linkedin.com/in/farah-tourait
-
+LinkedIn: www.linkedin.com/in/farah-tourait-187987293
 ## License
 
 MIT License - free for anyone to use and learn from.
