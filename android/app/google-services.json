@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300335391189",
+    "project_id": "chat-translator-app-a9371",
+    "storage_bucket": "chat-translator-app-a9371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300335391189:android:0ec9ca382cfed203619d5c",
+        "android_client_info": {
+          "package_name": "com.yourname.chattranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300335391189-57esjnufu5f8nr9sv6h6hf1qkdb26f6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEsmCOkE9EfIxlHK7xbPBv1Oot-VnxUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300335391189-57esjnufu5f8nr9sv6h6hf1qkdb26f6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
